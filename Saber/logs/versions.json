@@ -1,0 +1,7 @@
+{
+    "lastUpdatedVersion": "v3.09",
+    "versions": {
+        "v3.07": ["testing"],
+        "v3.09": ["initial release", "have fun guys!"]
+    }
+}
