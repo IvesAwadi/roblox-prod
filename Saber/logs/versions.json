@@ -2,6 +2,13 @@
     "lastUpdatedVersion": "v3.09",
     "versions": {
         "v3.07": ["testing"],
-        "v3.09": ["initial release", "have fun guys!"]
+        "v3.09": ["initial release", "have fun guys!"],
+        "v3.10": [
+            "Added Event System",
+            "Added New Features",
+            "Improved Performance",
+            "Fixed Bugs",
+            "Initial Release"
+        ]
     }
 }
